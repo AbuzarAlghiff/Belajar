@@ -17,4 +17,6 @@
 * run django
 `python manage.py runserver`
 
+# Preview
+![](https://github.com/AnasR7/Belajar/blob/master/images/all.gif)
 
