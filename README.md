@@ -1,5 +1,9 @@
 # How to install
-
+* Install pip
+  * download pip in https://bootstrap.pypa.io/get-pip.py
+  * install with terminal & python
+  `python get-pip.py`
+  
 * install pipenv with pip
 `pip install pipenv`
 
